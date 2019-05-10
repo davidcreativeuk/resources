@@ -10,16 +10,14 @@ List of learning resource links
 <li><a href="https://eu.udacity.com/course/responsive-images--ud882">Google: responsive images</a></li>
 </ul>
   
-  Google garage
-  <ul>
-  <li><a href="https://learndigital.withgoogle.com/digitalgarage/course/front-end-web-ui-frameworks-tools">Front-End Web UI Frameworks and Tools: Bootstrap 4</a></li>
-  </ul>
-  
   UX related
   <UL>
   <li><a href="https://demo.zeroheight.com/share/IwLuW3h5fDrVVKttiMiLng/588">example of a UX design system</a></li>
   <li><a href="https://onepagelove.com/">One page love -inspiration &amp; design</a></li>
   <li><a href="https://www.behance.net/live">Adobe live on Behance</a></li>
   <li><a href="https://www.youtube.com/channel/UC48fSJKMFBka3Zl0u7DGf0A">Howard Pinsky - adobe XD,Youtube Channel</a></li>
-  <li><a href="https://www.youtube.com/channel/UCL0iAkpqV5YaIVG7xkDtS4Q">Adoeb creative cloud,Youtube channel</a></li>
+  <li><a href="https://www.youtube.com/channel/UCL0iAkpqV5YaIVG7xkDtS4Q">Adobe creative cloud,Youtube channel</a></li>
+  <li><a href="https://developer.paciellogroup.com/resources/contrastanalyser/">WCAG 2.1 compliance Colour Contrast Analyser application mac/win</a></li>
+  <li><a href="https://accessibility.blog.gov.uk/">GOV.UK Blog - Accessibility in government</a></li>
+  <li><a href="https://accessibility.blog.gov.uk/2019/02/11/using-persona-profiles-to-test-accessibility/">Using persona profiles to test accessibility</a></li>
   </ul>
