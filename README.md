@@ -21,4 +21,6 @@ List of learning resource links
   <li><a href="https://accessibility.blog.gov.uk/">GOV.UK Blog - Accessibility in government</a></li>
   <li><a href="https://accessibility.blog.gov.uk/2019/02/11/using-persona-profiles-to-test-accessibility/">Using persona profiles to test accessibility</a></li>
   <li><a href="https://uimovement.com/">UI movement - inspiration for ui elements</a></li>
+  <li><a href="https://userresearch.blog.gov.uk/2016/02/19/benchmarking-gov-uk-and-what-we-are-doing-with-what-we-found-out/">Benchmaking gov.uk site components research</a></li>
+  <li><a href="https://userresearch.blog.gov.uk/2018/02/20/its-vital-to-test-on-a-wide-range-of-devices-heres-how-we-do-it/">Testing on different devices for user testing gov.uk</a></li>
   </ul>
