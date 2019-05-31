@@ -4,6 +4,7 @@
 <li><a href="https://medium.freecodecamp.org/become-a-developer-and-get-your-first-job-fast-7b8ac26d84c6">How to become a developer and get your first job as quickly as possible</a></li>
 <li><a href="https://learn.freecodecamp.org/">Responsive Web Design Certification</a></li>
 <li><a href="https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners">An Intro to Git and GitHub for Beginners (Tutorial)</a></li> 
+  <li><a href="https://try.github.io/">Resources to learn Git</a></li>
 <li><a href="https://developers.google.com/training/web/">Google training</a></li>
 <li><a href="https://eu.udacity.com/course/web-accessibility--ud891">Google: web-accessibility</a></li>
 <li><a href="https://eu.udacity.com/course/responsive-web-design-fundamentals--ud893">Google: responsive web design</a></li>
